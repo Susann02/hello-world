@@ -1,2 +1,2 @@
 # hello-world
-GitHub's Hello World project
+GitHub's <a href="https://guides.github.com/activities/hello-world/">Hello World project</a>
